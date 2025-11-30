@@ -49,3 +49,9 @@ speedRun={
 [rendering]
 
 textures/canvas_textures/default_texture_filter=0
+<<<<<<< HEAD
+=======
+textures/canvas_textures/default_texture_filter=0
+renderer/rendering_method="mobile"
+
+>>>>>>> 9c75c056fa009b749daa5dda8bfc5159d0f76ea6
